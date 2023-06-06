@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_DZ_19_05_2023
+namespace C_DZ._19_05_2023
 {
     //class Product
     //{
